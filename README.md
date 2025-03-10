@@ -20,7 +20,7 @@ Ensure you have Python installed (Python 3.x recommended). Then, install the req
 
 1. Run the game script:
 
-    python snake.py
+    python main.py
 
 
 2. Use the arrow keys to control the snake:
