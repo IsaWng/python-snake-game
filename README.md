@@ -39,13 +39,6 @@ Ensure you have Python installed (Python 3.x recommended). Then, install the req
 
 4. Avoid running into the walls or yourself, or the game will end.
 
-**Project Structure**
-
-    📂 snake-game
-     ├── 📄 snake.py        # Main game script
-     ├── 📄 README.md       # Project documentation
-     ├── 📂 assets          # (If applicable, for images or sounds)
-
 
 Feel free to fork this repository and submit pull requests to improve the game!
 
